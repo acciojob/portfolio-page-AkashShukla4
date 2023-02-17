@@ -1,2 +1,25 @@
-
+.s1{
+	background-color : tomato;
+	color : yellow;
+	display : block;	
+	height: 200px;
+	width: 200px;
+	border: inset black 4px;
+	margin: 5px;
+	padding:20px;
+}
+.s2{
+	background-color : tomato;
+	color : yellow;
+	display : block;	
+	height: 200px;
+	width: 200px;
+	border: inset black 4px;
+	margin: 5px;
+	padding: 21px;
+}
+ul{
+	color: black;
+	
+}
 /* Your CSS Code here. */
