@@ -1,25 +1,18 @@
-.s1{
-	background-color : tomato;
-	color : yellow;
-	display : block;	
-	height: 200px;
-	width: 200px;
-	border: inset black 4px;
-	margin: 5px;
-	padding:20px;
+img{
+	height:150px;
+	width: 150px;
 }
-.s2{
+section{
 	background-color : tomato;
 	color : yellow;
 	display : block;	
-	height: 200px;
-	width: 200px;
 	border: inset black 4px;
-	margin: 5px;
-	padding: 21px;
+}
+ol{
+	color:black;
 }
 ul{
-	color: black;
-	
+	color:darkgreen;
 }
+
 /* Your CSS Code here. */
